@@ -73,19 +73,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #Задачя 2
 # root = Tk()
 # root.geometru("500x500")
@@ -102,32 +89,4 @@
 #
 # bin = Button(root,text="отправить", bd=5, bg"#JJA11IJ")
 # bin
-
-
-
-
-def itahli():
-    lab["font"] = r += jgj
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
